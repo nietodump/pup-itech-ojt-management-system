@@ -32,7 +32,7 @@
           <!-- Navbar -->
           <nav class="absolute top-0 left-0 right-0 z-30 flex flex-wrap items-center px-4 py-2 mx-6 my-4 shadow-soft-2xl rounded-blur bg-white/80 backdrop-blur-2xl backdrop-saturate-200 lg:flex-nowrap lg:justify-start">
             <div class="flex items-center justify-between w-full p-0 pl-6 mx-auto flex-wrap-inherit">
-              <a class="py-2.375 text-sm  whitespace-nowrap font-bold text-slate-700 lg:ml-0" href="#"> OJT RECORD MONITORING SYSTEM </a>
+              <a class="py-2.375 text-sm  whitespace-nowrap font-bold text-slate-700 lg:ml-0" href="#"> OJT MANAGEMENT SYSTEM </a>
 
 
             </div>
@@ -80,7 +80,7 @@
               </div>
               <div class="w-full max-w-full px-3 lg:flex-0 shrink-0 md:w-6/12">
                 <div class="absolute top-0 hidden w-3/5 h-full -mr-32 overflow-hidden -skew-x-10 -right-40 rounded-bl-xl md:block">
-                  <div class="absolute inset-x-0 top-0 z-0 h-full -ml-16 bg-cover skew-x-10" style="background-image: url('../build/assets/img/lcc banner1.jpg')"></div>
+                  <div class="absolute inset-x-0 top-0 z-0 h-full -ml-16 bg-cover skew-x-10" style="background-image: url('../build/assets/img/pup banner.jpg')"></div>
                 </div>
               </div>
             </div>
