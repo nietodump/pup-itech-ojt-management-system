@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div class="w-full px-6 mx-auto">
-  <div class="relative flex items-center p-0 mt-6 overflow-hidden bg-center bg-cover min-h-75 rounded-2xl" style="background-image: url('../build/assets/img/banner_light.jpg'); background-position-y: 50%">
+  <div class="relative flex items-center p-0 mt-6 overflow-hidden bg-center bg-cover min-h-75 rounded-2xl" style="background-image: url('../build/assets/img/pup banner_light.jpg'); background-position-y: 50%">
     <span class="absolute inset-y-0 w-full h-full bg-center bg-cover"></span>
   </div>
 
@@ -12,7 +12,7 @@
       <div class="flex-none w-auto max-w-full px-3 my-auto">
         <div class="h-full">
           <h5 class="mb-1">OJT ANNOUNCEMENT & UPDATES</h5>
-          <p class="mb-0 font-semibold leading-normal text-sm">Ligao Community College</p>
+          <p class="mb-0 font-semibold leading-normal text-sm">Polytechnic University of the Philippines ITECH</p>
         </div>
       </div>
 
