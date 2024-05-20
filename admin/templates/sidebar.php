@@ -3,7 +3,7 @@
         <i class="absolute top-0 right-0 hidden p-4 opacity-50 cursor-pointer fas fa-times text-slate-400 xl:hidden" sidenav-close></i>
          <a class="py-2.7 shadow-soft-xl text-sm ease-nav-brand my-0 mx-4 flex items-center whitespace-nowrap rounded-lg bg-white px-4 font-semibold text-slate-700 transition-colors" href="../dashboard">
           
-          <span class="ml-1 font-semibold transition-all duration-200 ease-nav-brand">OJT RECORD MANAGEMENT</span>
+          <span class="ml-1 font-semibold transition-all duration-200 ease-nav-brand">OJT MANAGEMENT SYSTEM</span>
         </a>
       </div>
 
@@ -131,7 +131,7 @@
                   <div class="shadow-soft-2xl mr-2 flex h-8 w-8 items-center justify-center rounded-lg bg-white bg-center stroke-0 text-center xl:p-2.5">
                   <i class="fa fa-handshake-o" aria-hidden="true"></i>
                   </div>
-                  <span class="ml-1 duration-300 opacity-100 pointer-events-none ease-soft">Schools</span>
+                  <span class="ml-1 duration-300 opacity-100 pointer-events-none ease-soft">HTE</span>
                 </a>
               </li>
           <?php else : ?>
