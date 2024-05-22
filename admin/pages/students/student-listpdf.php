@@ -13,7 +13,7 @@ if (isset($_GET['generate_report'])) {
 class PDF extends TCPDF
 {
     public function Header(){
-        $imageFile = K_PATH_IMAGES.'logo.jpg';
+        $imageFile = K_PATH_IMAGES.'pup logo.jpg';
         $this->Image($imageFile, 40, 10, 20, '', 'JPG', '', 'T', false, 300, '', false, false,
         0, false, false, false);
         $this->Ln(0);
@@ -21,11 +21,11 @@ class PDF extends TCPDF
         $this->SetFont('helvetica', '', 8,);
         $this->Cell(270, 3, 'Republic of the Philippines', 0, 1, 'C');
         $this->Cell(270, 3, 'Commision on Higher Education', 0,1, 'C');
-        $this->Cell(270, 3, 'Region V', 0,1, 'C');
+        $this->Cell(270, 3, 'National Capital Region', 0,1, 'C');
         $this->SetFont('helvetica', 'B', 11);
-        $this->Cell(270, 3, 'LIGAO COMMUNITY COLLEGE', 0, 1, 'C');
+        $this->Cell(270, 3, 'Polytechnic University of the Philippines - Institute of Technology', 0, 1, 'C');
         $this->SetFont('helvetica', '', 8,);
-        $this->Cell(270, 3, 'Soledad Street, Guilid, Ligao City, 4505', 0, 1, 'C');
+        $this->Cell(270, 3, '379 Pureza, Santa Mesa, Maynila, 1008 Kalakhang Maynila', 0, 1, 'C');
         $this->SetFont('helvetica', 'B', 11);
         $this->Cell(270, 1, '________________________________________________________________________________________________________________________', 0, 1, 'C');
 
