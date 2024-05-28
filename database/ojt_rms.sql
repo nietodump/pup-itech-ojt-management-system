@@ -41,7 +41,7 @@ CREATE TABLE `accounts` (
 --
 
 INSERT INTO `accounts` (`id`, `email`, `password`, `name`, `accountFor`, `courseCode`) VALUES
-(1, 'coordinator1@gmail.com', 'admin1', 'ALICIA O. RETONA', 'Coordinator', 'Education Dept.'),
+(1, 'coordinator1@gmail.com', 'admin1', 'ALICIA O. RETONA', 'Coordinator', 'DICT Dept.'),
 (2, 'coordinator2@gmail.com', 'admin2', 'LENNIE ROSE P. PODRIDO', 'Coordinator', 'Economics Dept.'),
 (25, 'noelcerillo@gmail.com', 'noel.cerillo5', 'NOEL M. CERILLO', 'CITY AGRICULTURE OFFICE', 'Company'),
 (34, 'ginadavid.lmh@gmail.com', 'ginadavid.lmh', 'GINA R. DAVID', 'LIGAO MUNICIPAL HALL', 'Company'),
